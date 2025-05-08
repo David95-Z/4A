@@ -1,1 +1,3 @@
-# 4A
+sudo apt install rkhunter
+
+rkhunter-c
